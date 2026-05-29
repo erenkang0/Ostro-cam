@@ -1,0 +1,8 @@
+{
+  "name": "AstroCam",
+  "description": "Samsung Galaxy A55 5G optimized Astrophotography Camera & Sky Tracker",
+  "requestFramePermissions": [
+    "android.permission.CAMERA"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
